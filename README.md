@@ -8,7 +8,7 @@
 ## Table of contents
 1. [Project Description](#description-du-projet)
 2. [Project view](#project-view)
-3. [Installation](#installation)
+3. [Installations](#installation)
 4. [Data sources](#sources-de-donnees)
 5. [Support](#support)
 
@@ -19,9 +19,9 @@ The project involves the study of a data set on water quality. Today, access to 
 Our problem on this topic is the following: Find a prediction model allowing us to know whether a water is safe for consumption or not. 
 
 ## Project View 
-![Notebook_project](./Projet_ML_Zennaro_Peugeot_Smaoui.ipynb)
+- Our work : ![Notebook_project](./Projet_ML_Zennaro_Peugeot_Smaoui.ipynb)
 
-## Data sources : 
+## Data sources
 - Challenge Kaggle Water Potability : [Drinking_water_potability](https://www.kaggle.com/artimule/drinking-water-probability)
 
 
