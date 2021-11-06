@@ -32,7 +32,7 @@ Our problem on this topic is the following: Find a prediction model allowing us 
 - pip install numpy
 - pip install sklearn
 - pip install xgboost
-- pip install matplotlib.pyplot
+- pip install matplotlib
 - pip install seaborn
 
 or 
