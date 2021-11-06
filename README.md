@@ -19,7 +19,7 @@ The project involves the study of a data set on water quality. Today, access to 
 Our problem on this topic is the following: Find a prediction model allowing us to know whether a water is safe for consumption or not. 
 
 ## Project View 
-![Notebook_project](./)
+![Notebook_project](./Projet_ML_Zennaro_Peugeot_Smaoui.ipynb)
 
 ## Data sources : 
 - Challenge Kaggle Water Potability : [Drinking_water_potability](https://www.kaggle.com/artimule/drinking-water-probability)
