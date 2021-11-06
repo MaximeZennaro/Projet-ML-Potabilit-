@@ -26,7 +26,7 @@ Our problem on this topic is the following: Find a prediction model allowing us 
 
 
 ## Installations
-[requirements](./requirements.txt)
+Requirements : [requirements](./requirements.txt)
 
 - pip install pandas
 - pip install numpy
